@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\ProjetoPOO\ProjetoPOO\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ProjetoPOO\ProjetoPOO\POO\POO\obj\Debug\POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\ProjetoPOO\ProjetoPOO\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ProjetoPOO\ProjetoPOO\POO\POO\bin\Debug\POO.exe.config
+C:\Users\Aluno\Desktop\ProjetoPOO\ProjetoPOO\POO\POO\bin\Debug\POO.exe
+C:\Users\Aluno\Desktop\ProjetoPOO\ProjetoPOO\POO\POO\bin\Debug\POO.pdb
+C:\Users\Aluno\Desktop\ProjetoPOO\ProjetoPOO\POO\POO\obj\Debug\POO.exe
+C:\Users\Aluno\Desktop\ProjetoPOO\ProjetoPOO\POO\POO\obj\Debug\POO.pdb
+C:\Users\Aluno\Desktop\Project POO\POO\POO\bin\Debug\POO.exe.config
+C:\Users\Aluno\Desktop\Project POO\POO\POO\bin\Debug\POO.exe
+C:\Users\Aluno\Desktop\Project POO\POO\POO\bin\Debug\POO.pdb
+C:\Users\Aluno\Desktop\Project POO\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Project POO\POO\POO\obj\Debug\POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Project POO\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Project POO\POO\POO\obj\Debug\POO.exe
+C:\Users\Aluno\Desktop\Project POO\POO\POO\obj\Debug\POO.pdb
